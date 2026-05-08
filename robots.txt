@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sijiazhu.github.io/sitemap.xml
